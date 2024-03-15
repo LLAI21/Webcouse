@@ -1,0 +1,41 @@
+body{
+    background-color: gray;
+    font-family: Arial;
+    margin: 0;  
+}
+
+#image1{
+    position: absolute;  /* centre l'image et permet de ne pas bouger l'image */
+    top: 2px;
+    left: 10px;
+    width: 110px;
+    height: 90px;
+    clip-path: circle(45%);
+}
+
+
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+nav{
+  
+    text-align: center;
+    background-color:black;
+    margin:0;
+
+}
+
+nav ul li{
+    display : inline-block;
+    line-height: 4rem;
+    padding: 1rem;
+    color:#FFFFFF;
+
+}
+
+ul{
+    margin: 0;
+}

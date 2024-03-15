@@ -1,0 +1,63 @@
+<style >
+#contactez {
+    text-align: center;
+}
+
+#adresse {
+    text-align: center;
+}
+
+#image4 {
+    display: block;
+    margin: 0 auto;
+}
+
+.coordonees {
+    text-align: center;
+}
+p{
+    text-align:center;
+}
+
+</style >
+
+footer p {
+    text-align: center;
+}
+
+
+
+h3 {
+    text-align: center;
+}
+
+
+#a {
+    color: yellow;
+}
+
+
+#titre3 {
+    color: yellow;
+}
+
+
+
+footer {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+#footer {
+    font-size: 15px;
+    color: #000000;
+}
+
+footer p a {
+    color: #000000;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}

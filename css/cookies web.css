@@ -1,0 +1,38 @@
+.cookie-wrapper #cookie-consent {
+    background-color: #2196F3;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    text-align: center;
+    z-index: 9999;
+}
+
+.cookie-wrapper #cookie-buttons button {
+    margin: 0 auto;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    display: block;
+}
+
+.cookie-wrapper #accept-all-cookies {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.cookie-wrapper #refuse-all-cookies {
+    background-color: #f44336;
+    color: white;
+}
+
+.cookie-wrapper #custom-cookies {
+    background-color: #2196F3;
+    color: white;
+}
+.cookie-wrapper #cookie-consent.hidden {
+    display: none;
+  }

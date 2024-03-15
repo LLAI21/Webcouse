@@ -1,0 +1,28 @@
+body{
+    background-color: gray;
+    font-family: Arial;
+    margin: 0;  
+}
+
+
+footer p{
+    text-align: center;
+}
+
+
+
+footer{
+    color: #000000;
+    background-color: #FFFFFF;
+    margin-top: 80px;
+    
+}
+
+#footer{
+    font-size: 15px;
+    color: #000000;
+}
+
+footer p a{
+    color:#000000;
+}
